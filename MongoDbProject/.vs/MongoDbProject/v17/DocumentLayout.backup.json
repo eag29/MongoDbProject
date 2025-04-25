@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\mongodbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\emir ali\\documents\\projeler\\mongodbprojeleri\\mongodbproject\\mongodbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\mongodbproject\\services\\productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\services\\productoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\mongodbproject\\services\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CFF422-4667-46A6-8B42-75A7F8F4DEF6}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\services\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Form1.cs",
+              "RelativeToolTip": "MongoDbProject\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:19:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Services\\ProductOperation.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Services\\ProductOperation.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Services\\ProductOperation.cs",
+              "RelativeToolTip": "MongoDbProject\\Services\\ProductOperation.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:30:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Services\\MongoDbConnection.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Services\\MongoDbConnection.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Services\\MongoDbConnection.cs",
+              "RelativeToolTip": "MongoDbProject\\Services\\MongoDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:26:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\MongoDbProjeleri\\MongoDbProject\\MongoDbProject\\Form1.cs [Design]",
+              "RelativeToolTip": "MongoDbProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:18:18.265Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
